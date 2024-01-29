@@ -2,7 +2,8 @@
 # Title:
 ## PacMen
 # Description:
-This project shows the random movement of pacman by clicking the button. Another button adds pacman by clickin.
+This project shows the random movement of pacman by clicking the button. Another button adds pacman by clicking.
+[You can find the link here]( https://hema35.github.io/PacMen/)
 # Installation:
 # Future Improvements:
 The future improvement involves including the other images of pacman moving along already existing pacman.
